@@ -1,7 +1,6 @@
 # React Native specific
 node_modules/
-ios/
-android/
+
 build/
 .gradle/
 .idea/

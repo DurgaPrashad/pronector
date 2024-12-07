@@ -1,0 +1,8 @@
+export const FEATURE_FLAGS = {
+   ENABLE_MENTORSHIP: true,
+   ENABLE_INVESTOR_CONNECT: true,
+   ENABLE_ANALYTICS: true,
+   ENABLE_CUSTOM_BRANDING: false,
+ };
+ 
+ 
